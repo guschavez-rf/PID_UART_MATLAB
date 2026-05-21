@@ -2,11 +2,11 @@
  "Device" : "GW2AR-18C",
  "Files" : [
   {
-   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/TOP.v",
+   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/PROPORTIONAL.V",
    "Type" : "verilog"
   },
   {
-   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/PROPORTIONAL.V",
+   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/TOP.v",
    "Type" : "verilog"
   }
  ],
