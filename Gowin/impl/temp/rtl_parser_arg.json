@@ -1,0 +1,21 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/TOP.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/src/PROPORTIONAL.V",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/gus/Documentos/FPGA/GitHub/PID_UART_MATLAB/Gowin/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
